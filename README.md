@@ -20,6 +20,63 @@ his/her username here instead of in the chat room by clicking “manipulation”
 preventing the manually setting these by user. Because in real case, the server is  
 always available with invariable parameters and the clients don’t need to know.
 
+## Outline of the code
+
+#### UserLoginActivity.java
+The `UserLoginActivity.java`
+
+#### UserRegisActivity.java
+The `UserRegisActivity.java`
+
+#### ChatActivity.java
+The `ChatActivity.java`
+
+#### ChatMsgViewAdapter.java
+The `ChatMsgViewAdapter.java`
+
+#### ExpressionGvAdapter.java
+The `ExpressionGvAdapter.java`
+
+#### Message.java
+The `Message.java`
+
+#### User.java
+The `User.java`
+
+#### ContentFlag.java
+The `ContentFlag.java`
+
+#### MessageDbHelper.java
+The `MessageDbHelper.java`
+
+#### UserDbHelper.java
+The `UserDbHelper.java`
+
+#### IhandleMessage.java
+The `IhandleMessage.java`
+
+#### MessageService.java
+The `MessageService.java`
+
+#### RegisterService.java
+The `RegisterService.java`
+
+#### UserService.java
+The `UserService.java`
+
+#### ExpressionUtil.java
+THe `ExpressionUtil.java`
+
+#### FileDealTool.java
+The `FileDealTool.java`
+
+#### StreamTool.java
+The `StreamTool.java`
+
+#### SystemConstant.java
+The `SystemConstant.java`
+
+
 ## Acknowledgement
 I would like to give special thanks to Dr. Andy Li, Dr. Kaikai Liu and Dr. Ze Yu (In alphabetical  
 order). Specifically, Dr. Li inspired me  interesting of java & Android programming and  
